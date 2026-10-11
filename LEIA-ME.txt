@@ -1,0 +1,9 @@
+SITE — 47.741.021 Maria Vyrginia Meneses Poletto
+
+Arquivos: index.html, sobre.html, politica-privacidade.html, termos-de-uso.html, style.css e pasta assets com as cinco imagens enviadas.
+
+Visualização: extraia o ZIP e abra index.html no navegador. Bootstrap, Bootstrap Icons e fontes externas são carregados por CDN, portanto é necessária conexão à internet para exibir todos os recursos.
+
+Publicação: envie todos os arquivos e a pasta assets para a raiz do seu domínio/hospedagem.
+
+Antes de anunciar: confira os dados cadastrais e de contato; revise as páginas legais conforme as práticas reais; se adicionar Google Ads, Analytics, remarketing, formulários ou cookies, atualize a política de privacidade e implemente os avisos/consentimentos aplicáveis; verifique os direitos de uso das imagens.
